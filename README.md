@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tharanya18/leetcode/tree/master/0001-two-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tharanya18/leetcode/tree/master/0001-two-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
 |  |

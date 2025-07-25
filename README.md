@@ -18,5 +18,10 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Tharanya18/leetcode/tree/master/0125-valid-palindrome) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Tharanya18/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Tharanya18/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

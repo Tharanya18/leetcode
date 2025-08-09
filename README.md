@@ -44,4 +44,16 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Tharanya18/leetcode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Tharanya18/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Tharanya18/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

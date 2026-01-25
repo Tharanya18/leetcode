@@ -17,6 +17,7 @@
 | [0455-assign-cookies](https://github.com/Tharanya18/leetcode/tree/master/0455-assign-cookies) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharanya18/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0217-contains-duplicate](https://github.com/Tharanya18/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharanya18/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tharanya18/leetcode/tree/master/0455-assign-cookies) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Tharanya18/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Greedy
 |  |
 | ------- |

@@ -11,7 +11,7 @@ class Solution {
             {
                 index = i;
             }
-            arr[i]= i -index;
+            arr[i]= Math.abs(i -index);
         }
 
          index = 2*n;
@@ -21,7 +21,7 @@ class Solution {
             {
                 index = i;
             }
-            arr[i]= Math.min(arr[i],index-i);   
+            arr[i]= Math.min(arr[i],Math.abs( i- index));   
 
         }
         return arr;

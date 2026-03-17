@@ -18,6 +18,7 @@
 | [0455-assign-cookies](https://github.com/Tharanya18/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Tharanya18/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tharanya18/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharanya18/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -50,6 +51,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharanya18/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tharanya18/leetcode/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tharanya18/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharanya18/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tharanya18/leetcode/tree/master/0455-assign-cookies) |
+| [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |

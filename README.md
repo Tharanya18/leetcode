@@ -42,6 +42,7 @@
 | [0125-valid-palindrome](https://github.com/Tharanya18/leetcode/tree/master/0125-valid-palindrome) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tharanya18/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Tharanya18/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tharanya18/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Two Pointers
 |  |
 | ------- |

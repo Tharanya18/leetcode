@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/Tharanya18/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tharanya18/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tharanya18/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharanya18/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

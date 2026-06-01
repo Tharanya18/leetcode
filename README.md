@@ -18,6 +18,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharanya18/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tharanya18/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Tharanya18/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Tharanya18/leetcode/tree/master/0605-can-place-flowers) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tharanya18/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tharanya18/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Tharanya18/leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Tharanya18/leetcode/tree/master/0605-can-place-flowers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tharanya18/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Matrix
 |  |

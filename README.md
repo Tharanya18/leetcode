@@ -37,10 +37,12 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharanya18/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tharanya18/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3692-majority-frequency-characters](https://github.com/Tharanya18/leetcode/tree/master/3692-majority-frequency-characters) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3692-majority-frequency-characters](https://github.com/Tharanya18/leetcode/tree/master/3692-majority-frequency-characters) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [1768-merge-strings-alternately](https://github.com/Tharanya18/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tharanya18/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tharanya18/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3692-majority-frequency-characters](https://github.com/Tharanya18/leetcode/tree/master/3692-majority-frequency-characters) |
 ## Two Pointers
 |  |
 | ------- |

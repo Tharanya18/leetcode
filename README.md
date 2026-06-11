@@ -54,6 +54,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Tharanya18/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tharanya18/leetcode/tree/master/0392-is-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tharanya18/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharanya18/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Tharanya18/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1768-merge-strings-alternately](https://github.com/Tharanya18/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tharanya18/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tharanya18/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharanya18/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

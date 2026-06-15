@@ -19,6 +19,7 @@
 | [0455-assign-cookies](https://github.com/Tharanya18/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Tharanya18/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Tharanya18/leetcode/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/Tharanya18/leetcode/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tharanya18/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Tharanya18/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/Tharanya18/leetcode/tree/master/3838-weighted-word-mapping) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Tharanya18/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

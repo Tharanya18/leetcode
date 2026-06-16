@@ -25,6 +25,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Tharanya18/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tharanya18/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/Tharanya18/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharanya18/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tharanya18/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -159,4 +160,5 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Tharanya18/leetcode/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Tharanya18/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->

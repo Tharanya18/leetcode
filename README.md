@@ -161,4 +161,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Tharanya18/leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Tharanya18/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Tharanya18/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

@@ -67,6 +67,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharanya18/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Tharanya18/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1768-merge-strings-alternately](https://github.com/Tharanya18/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/Tharanya18/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tharanya18/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tharanya18/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3692-majority-frequency-characters](https://github.com/Tharanya18/leetcode/tree/master/3692-majority-frequency-characters) |
@@ -163,9 +164,11 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharanya18/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Tharanya18/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Tharanya18/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Tharanya18/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |

@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/Tharanya18/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tharanya18/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Tharanya18/leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Tharanya18/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tharanya18/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tharanya18/leetcode/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@
 | [0169-majority-element](https://github.com/Tharanya18/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tharanya18/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tharanya18/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Tharanya18/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharanya18/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Tharanya18/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tharanya18/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Tharanya18/leetcode/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3692-majority-frequency-characters](https://github.com/Tharanya18/leetcode/tree/master/3692-majority-frequency-characters) |
 ## String
@@ -146,6 +149,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Tharanya18/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tharanya18/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Tharanya18/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharanya18/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tharanya18/leetcode/tree/master/0455-assign-cookies) |

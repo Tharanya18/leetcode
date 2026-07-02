@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tharanya18/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Tharanya18/leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Tharanya18/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tharanya18/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tharanya18/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -70,6 +71,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tharanya18/leetcode/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Tharanya18/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tharanya18/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tharanya18/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -132,6 +134,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tharanya18/leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Tharanya18/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tharanya18/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |

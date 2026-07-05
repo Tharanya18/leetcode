@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tharanya18/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Tharanya18/leetcode/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tharanya18/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tharanya18/leetcode/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/Tharanya18/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Tharanya18/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tharanya18/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |

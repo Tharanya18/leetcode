@@ -80,6 +80,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Tharanya18/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tharanya18/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tharanya18/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Tharanya18/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Tharanya18/leetcode/tree/master/0443-string-compression) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tharanya18/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharanya18/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -149,6 +150,7 @@
 | [0189-rotate-array](https://github.com/Tharanya18/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tharanya18/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Tharanya18/leetcode/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tharanya18/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3945-digit-frequency-score](https://github.com/Tharanya18/leetcode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
@@ -210,6 +212,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Tharanya18/leetcode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Tharanya18/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2390-removing-stars-from-a-string](https://github.com/Tharanya18/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Tharanya18/leetcode/tree/master/3838-weighted-word-mapping) |

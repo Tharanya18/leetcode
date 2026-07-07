@@ -152,12 +152,14 @@
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tharanya18/leetcode/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tharanya18/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tharanya18/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3945-digit-frequency-score](https://github.com/Tharanya18/leetcode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Tharanya18/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tharanya18/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |

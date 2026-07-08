@@ -257,8 +257,14 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/Tharanya18/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/Tharanya18/leetcode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Tharanya18/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

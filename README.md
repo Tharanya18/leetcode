@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Tharanya18/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Tharanya18/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tharanya18/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Tharanya18/leetcode/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Tharanya18/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharanya18/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tharanya18/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Tharanya18/leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Tharanya18/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Tharanya18/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Tharanya18/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Tharanya18/leetcode/tree/master/0217-contains-duplicate) |
@@ -82,6 +84,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tharanya18/leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Tharanya18/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Tharanya18/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Tharanya18/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tharanya18/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tharanya18/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -181,6 +184,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tharanya18/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Tharanya18/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tharanya18/leetcode/tree/master/0217-contains-duplicate) |

@@ -122,6 +122,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tharanya18/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Tharanya18/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tharanya18/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Tharanya18/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tharanya18/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
@@ -281,4 +282,5 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Tharanya18/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tharanya18/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->

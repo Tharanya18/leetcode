@@ -67,6 +67,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharanya18/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Tharanya18/leetcode/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Tharanya18/leetcode/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/Tharanya18/leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Tharanya18/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tharanya18/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -96,6 +97,7 @@
 | [0412-fizz-buzz](https://github.com/Tharanya18/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Tharanya18/leetcode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Tharanya18/leetcode/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/Tharanya18/leetcode/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tharanya18/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharanya18/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tharanya18/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |

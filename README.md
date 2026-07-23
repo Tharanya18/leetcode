@@ -65,6 +65,7 @@
 | [0229-majority-element-ii](https://github.com/Tharanya18/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharanya18/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Tharanya18/leetcode/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Tharanya18/leetcode/tree/master/0500-keyboard-row) |
 | [1207-unique-number-of-occurrences](https://github.com/Tharanya18/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Tharanya18/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tharanya18/leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Tharanya18/leetcode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3692-majority-frequency-characters](https://github.com/Tharanya18/leetcode/tree/master/3692-majority-frequency-characters) |
 ## String
@@ -89,6 +91,7 @@
 | [0125-valid-palindrome](https://github.com/Tharanya18/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tharanya18/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tharanya18/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Tharanya18/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Tharanya18/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Tharanya18/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Tharanya18/leetcode/tree/master/0443-string-compression) |

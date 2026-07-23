@@ -72,6 +72,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Tharanya18/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tharanya18/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tharanya18/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tharanya18/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tharanya18/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3692-majority-frequency-characters](https://github.com/Tharanya18/leetcode/tree/master/3692-majority-frequency-characters) |
@@ -106,6 +107,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Tharanya18/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Tharanya18/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1768-merge-strings-alternately](https://github.com/Tharanya18/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tharanya18/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/Tharanya18/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Tharanya18/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tharanya18/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |

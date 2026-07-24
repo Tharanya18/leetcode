@@ -50,6 +50,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharanya18/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tharanya18/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Tharanya18/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tharanya18/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Tharanya18/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tharanya18/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -76,6 +77,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tharanya18/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tharanya18/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Tharanya18/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tharanya18/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Tharanya18/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tharanya18/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -88,6 +90,7 @@
 | [0229-majority-element-ii](https://github.com/Tharanya18/leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Tharanya18/leetcode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Tharanya18/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Tharanya18/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3692-majority-frequency-characters](https://github.com/Tharanya18/leetcode/tree/master/3692-majority-frequency-characters) |
 ## String
@@ -194,6 +197,7 @@
 | [0231-power-of-two](https://github.com/Tharanya18/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tharanya18/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Tharanya18/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Recursion
 |  |
 | ------- |

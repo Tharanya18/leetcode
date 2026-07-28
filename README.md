@@ -42,6 +42,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Tharanya18/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1207-unique-number-of-occurrences](https://github.com/Tharanya18/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tharanya18/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tharanya18/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Tharanya18/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tharanya18/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -247,6 +248,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Tharanya18/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tharanya18/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Tharanya18/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tharanya18/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Greedy
 |  |

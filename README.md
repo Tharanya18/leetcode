@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tharanya18/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Tharanya18/leetcode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Tharanya18/leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/Tharanya18/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Tharanya18/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tharanya18/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tharanya18/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Tharanya18/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Tharanya18/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tharanya18/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tharanya18/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -269,6 +271,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Tharanya18/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tharanya18/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tharanya18/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack

@@ -41,6 +41,7 @@
 | [0724-find-pivot-index](https://github.com/Tharanya18/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Tharanya18/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tharanya18/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0875-koko-eating-bananas](https://github.com/Tharanya18/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Tharanya18/leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Tharanya18/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -190,6 +191,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharanya18/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Tharanya18/leetcode/tree/master/0367-valid-perfect-square) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0875-koko-eating-bananas](https://github.com/Tharanya18/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Tharanya18/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Tree
 |  |

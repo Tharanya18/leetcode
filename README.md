@@ -45,6 +45,7 @@
 | [0881-boats-to-save-people](https://github.com/Tharanya18/leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Tharanya18/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tharanya18/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Tharanya18/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tharanya18/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tharanya18/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -192,6 +193,7 @@
 | [0367-valid-perfect-square](https://github.com/Tharanya18/leetcode/tree/master/0367-valid-perfect-square) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0875-koko-eating-bananas](https://github.com/Tharanya18/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tharanya18/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Tharanya18/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Tree
 |  |

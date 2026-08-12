@@ -63,6 +63,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Tharanya18/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tharanya18/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Tharanya18/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tharanya18/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tharanya18/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3838-weighted-word-mapping](https://github.com/Tharanya18/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -93,6 +94,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tharanya18/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Tharanya18/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tharanya18/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tharanya18/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3692-majority-frequency-characters](https://github.com/Tharanya18/leetcode/tree/master/3692-majority-frequency-characters) |
 | [3945-digit-frequency-score](https://github.com/Tharanya18/leetcode/tree/master/3945-digit-frequency-score) |
 ## Counting
@@ -266,6 +268,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Tharanya18/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tharanya18/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tharanya18/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
 |  |
 | ------- |

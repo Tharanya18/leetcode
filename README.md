@@ -85,6 +85,7 @@
 | [0500-keyboard-row](https://github.com/Tharanya18/leetcode/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Tharanya18/leetcode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Tharanya18/leetcode/tree/master/0791-custom-sort-string) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tharanya18/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/Tharanya18/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tharanya18/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -355,6 +356,7 @@
 | [0141-linked-list-cycle](https://github.com/Tharanya18/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tharanya18/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Tharanya18/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tharanya18/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tharanya18/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |

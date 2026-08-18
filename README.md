@@ -59,6 +59,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tharanya18/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Tharanya18/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharanya18/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Tharanya18/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tharanya18/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Tharanya18/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -298,6 +299,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Tharanya18/leetcode/tree/master/0143-reorder-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharanya18/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Tharanya18/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/Tharanya18/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -375,4 +377,8 @@
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tharanya18/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Tharanya18/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->

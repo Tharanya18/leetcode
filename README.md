@@ -46,6 +46,7 @@
 | [0881-boats-to-save-people](https://github.com/Tharanya18/leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Tharanya18/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tharanya18/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tharanya18/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Tharanya18/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tharanya18/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Tharanya18/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tharanya18/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tharanya18/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Tharanya18/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Recursion
@@ -270,6 +272,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Tharanya18/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tharanya18/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Tharanya18/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tharanya18/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tharanya18/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tharanya18/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -310,6 +313,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Tharanya18/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tharanya18/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Tharanya18/leetcode/tree/master/0724-find-pivot-index) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tharanya18/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1732-find-the-highest-altitude](https://github.com/Tharanya18/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Database
 |  |
@@ -351,6 +355,7 @@
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Tharanya18/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Tharanya18/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tharanya18/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Linked List
 |  |
 | ------- |
@@ -366,4 +371,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tharanya18/leetcode/tree/master/0141-linked-list-cycle) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tharanya18/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->

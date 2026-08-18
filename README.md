@@ -57,6 +57,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Tharanya18/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tharanya18/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tharanya18/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Tharanya18/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharanya18/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Tharanya18/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -299,6 +300,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Tharanya18/leetcode/tree/master/0143-reorder-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharanya18/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tharanya18/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Tharanya18/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/Tharanya18/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -307,6 +309,7 @@
 | [0412-fizz-buzz](https://github.com/Tharanya18/leetcode/tree/master/0412-fizz-buzz) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Tharanya18/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Tharanya18/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tharanya18/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/Tharanya18/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Tharanya18/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
@@ -358,6 +361,7 @@
 | [0933-number-of-recent-calls](https://github.com/Tharanya18/leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Tharanya18/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tharanya18/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tharanya18/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
 | ------- |

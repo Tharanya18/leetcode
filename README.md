@@ -55,6 +55,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Tharanya18/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tharanya18/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Tharanya18/leetcode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tharanya18/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharanya18/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Tharanya18/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tharanya18/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -303,6 +304,7 @@
 | [0143-reorder-list](https://github.com/Tharanya18/leetcode/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/Tharanya18/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharanya18/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tharanya18/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tharanya18/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Tharanya18/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/Tharanya18/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -390,5 +392,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tharanya18/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Tharanya18/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->

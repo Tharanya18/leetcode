@@ -65,6 +65,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Tharanya18/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tharanya18/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tharanya18/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2105-watering-plants-ii](https://github.com/Tharanya18/leetcode/tree/master/2105-watering-plants-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tharanya18/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Tharanya18/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tharanya18/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -176,6 +177,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tharanya18/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Tharanya18/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tharanya18/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2105-watering-plants-ii](https://github.com/Tharanya18/leetcode/tree/master/2105-watering-plants-ii) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Tharanya18/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tharanya18/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
@@ -317,6 +319,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Tharanya18/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tharanya18/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tharanya18/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2105-watering-plants-ii](https://github.com/Tharanya18/leetcode/tree/master/2105-watering-plants-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Tharanya18/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Tharanya18/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum

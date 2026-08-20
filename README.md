@@ -220,6 +220,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Tharanya18/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Tharanya18/leetcode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Tharanya18/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Tharanya18/leetcode/tree/master/0189-rotate-array) |

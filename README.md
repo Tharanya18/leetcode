@@ -194,6 +194,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -210,6 +211,7 @@
 | [0268-missing-number](https://github.com/Tharanya18/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharanya18/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Tharanya18/leetcode/tree/master/0367-valid-perfect-square) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/Tharanya18/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0897-increasing-order-search-tree) |

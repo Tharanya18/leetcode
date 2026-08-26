@@ -197,6 +197,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tharanya18/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tharanya18/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Tharanya18/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -228,6 +229,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tharanya18/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tharanya18/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Tharanya18/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -424,6 +426,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tharanya18/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tharanya18/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Tharanya18/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
@@ -432,5 +435,6 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Tharanya18/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tharanya18/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tharanya18/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Tharanya18/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->

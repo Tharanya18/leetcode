@@ -196,6 +196,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/Tharanya18/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0897-increasing-order-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tharanya18/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Tharanya18/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Tree
@@ -220,6 +222,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tharanya18/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -313,6 +316,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Tharanya18/leetcode/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/Tharanya18/leetcode/tree/master/0682-baseball-game) |
+| [0897-increasing-order-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharanya18/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tharanya18/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tharanya18/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -410,6 +414,7 @@
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |

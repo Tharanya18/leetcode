@@ -18,6 +18,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Tharanya18/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharanya18/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tharanya18/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tharanya18/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tharanya18/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tharanya18/leetcode/tree/master/0169-majority-element) |
@@ -243,6 +244,7 @@
 | [0009-palindrome-number](https://github.com/Tharanya18/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Tharanya18/leetcode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Tharanya18/leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tharanya18/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Tharanya18/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tharanya18/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Tharanya18/leetcode/tree/master/0231-power-of-two) |
@@ -329,6 +331,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Tharanya18/leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tharanya18/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Tharanya18/leetcode/tree/master/0682-baseball-game) |
 | [0897-increasing-order-search-tree](https://github.com/Tharanya18/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharanya18/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |

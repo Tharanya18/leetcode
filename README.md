@@ -76,6 +76,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tharanya18/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tharanya18/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3838-weighted-word-mapping](https://github.com/Tharanya18/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Tharanya18/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Tharanya18/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tharanya18/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tharanya18/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Tharanya18/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
 |  |
 | ------- |
@@ -447,4 +449,8 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tharanya18/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tharanya18/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tharanya18/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Tharanya18/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

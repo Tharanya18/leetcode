@@ -143,6 +143,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tharanya18/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Tharanya18/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Tharanya18/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1332-remove-palindromic-subsequences](https://github.com/Tharanya18/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/Tharanya18/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tharanya18/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2103-rings-and-rods](https://github.com/Tharanya18/leetcode/tree/master/2103-rings-and-rods) |
@@ -183,6 +184,7 @@
 | [0881-boats-to-save-people](https://github.com/Tharanya18/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/Tharanya18/leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tharanya18/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1332-remove-palindromic-subsequences](https://github.com/Tharanya18/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tharanya18/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Tharanya18/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tharanya18/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |

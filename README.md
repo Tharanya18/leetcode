@@ -73,6 +73,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Tharanya18/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tharanya18/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Tharanya18/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Tharanya18/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tharanya18/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tharanya18/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3838-weighted-word-mapping](https://github.com/Tharanya18/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -462,4 +463,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Tharanya18/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Tharanya18/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
